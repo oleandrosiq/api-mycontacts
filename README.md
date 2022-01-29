@@ -74,7 +74,7 @@ Before starting ✅, you need to have [Git](https://git-scm.com) and [Node](http
 
 ```bash
 # Clone this project
-$ git clone https://github.com/oleandrosiq}/api-contacts
+$ git clone https://github.com/oleandrosiq/api-contacts
 
 # Access
 $ cd api-contacts
