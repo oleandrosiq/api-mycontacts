@@ -48,27 +48,19 @@
 
 Uma Api de contatos
 
-<br />
-
 ## ⭐ Features ##
 
 ✅ Feature Crud de contatos;\
 ✅ Feature Crud de categorias;
-
-<br />
 
 ## 🚀 Technologies ##
 
 The following tools were used in this project:
 - [Node.js](https://nodejs.org/en/)
 
-<br />
-
 ## ✔ Requirements ##
 
 Before starting ✅, you need to have [Git](https://git-scm.com) and [Node](https://nodejs.org/en/) installed.
-
-<br />
 
 ## ✅ Starting ##
 
