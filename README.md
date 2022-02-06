@@ -57,6 +57,7 @@ Uma Api de contatos
 
 The following tools were used in this project:
 - [Node.js](https://nodejs.org/en/)
+- [Docker](https://www.docker.com/)
 
 ## ✔ Requirements ##
 
